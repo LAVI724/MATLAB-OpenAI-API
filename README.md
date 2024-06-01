@@ -1,6 +1,8 @@
 ## LAVI's Connect OpenAI Model with MATLAB Program and Automatically Send Gmail by SMTP Side Project
 ###### tags: `Side Project` `MATLAB` `OpenAI API` `LAVI` `2023` 
 
+我的部落格文章：[OpenAI API - Connect OpenAI Model with MATLAB Program and Automatically Send Gmail by SMTP](https://lavinia0724.github.io/2023/03/07/OpenAI-API-connect-OpenAI-API-with-MATLAB-Program-Side-Project/)
+
 ## Information
 1. 使用 MATLAB 撰寫程式連線 OpenAI API 進行詢問
     - 需先至 [OpenAI API](https://platform.openai.com/account/api-keys) 註冊帳號並生成自己的 API key
